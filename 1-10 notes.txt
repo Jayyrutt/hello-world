@@ -1,0 +1,11 @@
+1/10 Lecture Notes 
+remember SLDC phases RDDTIM
+Agile V. Waterfall
+Agile- promise to aggressively build apps by showing them everything possible 
+          deliver app in a visible term as much as possible
+          constant changes from customer affecting cost and budget
+Waterfall- very linear, customer will not see app until finished
+                 all requirements are known and set in stone so the customer will know        what they are getting from the beginning till the end
+  Most customers don't know what they want so they will use agile most often
+   Must be able to communicate the differences between Agile and Waterfall
+   install GitHub and install your work

@@ -1,0 +1,12 @@
+1/9 Lecture Notes 
+Start with independent research- make sure you are on the piazza daily
+Set expectations accordingly
+SDLC- Software Development Life Cycle- memorize this
+Phases- Requirements Gathering and Analysis
+Design
+Development
+Testing
+Implementation
+Maintenance
+Go through SDLC PDF and describe different models
+ 

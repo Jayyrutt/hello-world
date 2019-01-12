@@ -1,0 +1,21 @@
+1/9 Homework 
+What is SLDC- framework that describes the activities performed at each stage of a software development project
+The two major types of the SDLC are Waterfall and Agile
+Waterfall Strengths
+Waterfall is the oldest and most- known SLDC model
+Very well kept records that allow programs to be improved in the future
+Customer knows what to expect- time budget and also the size of the project
+Waterfall Weaknesses
+Once a step is completed, it cannot be changed
+If an error is found, the project will have to be started from the beginning
+Does not take in the customers evolving needs- if changes need to be made it could affect time and budget
+Agile Strengths
+Allows changes after initial planning
+Easier to add features and feedback so the customers get what they ultimately desire and keep up with the industry
+Bugs and errors can be caught in the development cycle because it allows you to test thoroughly as the project is being built
+Agile Weaknesses
+Initial project does not have definitive plan
+Final product can be different that what expected
+Project can become mismanaged and underdeveloped because of it being rush effectively changing time and budget
+ 
+Both the Agile and waterfall methodologies have their strengths and weaknesses. The key to deciding which is right for you comes down to the context of the project. Is it going to be changing rapidly? If so, choose Agile. Do you know exactly what you need? Good. Then maybe waterfall is the better option. Or better yet? Consider taking aspects of both methodologies and combining them in order to make the best possible software development process for your project.
